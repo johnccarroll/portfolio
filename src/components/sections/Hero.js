@@ -135,7 +135,10 @@ const Hero = ({ img }) => {
               John Carroll
             </StyledHeroTitle>
             <StyledHeroSubText component="h1" variant="h5">
-              Full Stack Developer | Tech Enthusiast | Online Tutor
+              Full Stack Developer | Tech Enthusiast
+            </StyledHeroSubText>
+            <StyledHeroSubText component="h1" variant="h5">
+              Online Tutor
             </StyledHeroSubText>
           </StyledHeroText>
         </StyledHeroGrid>

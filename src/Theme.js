@@ -57,7 +57,7 @@ export const lightTheme = createTheme({
       main: "#3E9F9D",
     },
     textMain: {
-      main: "#0B132B",
+      main: "#000000",
     },
     textSecondary: {
       main: "#53739A",
