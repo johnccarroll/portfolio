@@ -1,0 +1,30 @@
+[
+  {
+    "id": "0",
+    "company": "CVS Health",
+    "jobTitle": "Senior Analyst - Application Development",
+    "years": "May 2022 - Current",
+    "description": ""
+  },
+  {
+    "id": "1",
+    "company": "CVS Health",
+    "jobTitle": "Software Engineer Intern - Pharmacy Support Services",
+    "years": "May 2021 - Aug 2021",
+    "description": "Contributed as a full-stack developer to deliver a minimum viable product for a clinical development question set application."
+  },
+  {
+    "id": "2",
+    "company": "The Federal Reserve Board of Governors",
+    "jobTitle": "Technology Analyst Intern - Division of International Finance",
+    "years": "Jun 2020 - Aug 2020",
+    "description": "Developed a web-based scheduling application for Board responsibilities, utilizing Python and R to collect and analyze large datasets and creating an interactive web dashboard to display server analytics and network performance to Board members."
+  },
+  {
+    "id": "3",
+    "company": "Worcester Polytechnic Institute",
+    "jobTitle": "B.S/M.S. in Computer Science",
+    "years": "2018 - 2022",
+    "description": "Completed coursework involved algorithms, data structures and object oriented programming"
+  }
+]
