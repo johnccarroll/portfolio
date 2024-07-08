@@ -222,7 +222,7 @@ const Navbar = () => {
             <StyledResumeLink
               href={
                 process.env.PUBLIC_URL +
-                "/Maximilian Oberholtzer Resume 2023.pdf"
+                "/John-Carroll-Resume.pdf"
               }
               target="_blank"
             >

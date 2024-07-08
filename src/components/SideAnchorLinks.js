@@ -112,64 +112,22 @@ const SideAnchorLinks = () => {
         </StyledAnchorLink>
       </StyledLeftAnchor>
       <StyledRightAnchor>
-        <StyledAnchorLink
-          href="https://app.universaltennis.com/profiles/51049"
-          target="_blank"
-          aria-label="Tennis"
-        >
-          <svg
-            fill={theme.palette.textMain.main}
-            width="44px"
-            height="44px"
-            viewBox="0 0 1024 1024"
-            xmlns="http://www.w3.org/2000/svg"
-          >
-            <title>Universal Tennis Rating</title>
-            <UTRSvgPath />
-          </svg>
-        </StyledAnchorLink>
-        <StyledAnchorLink
-          href="https://rocketleague.tracker.network/rocket-league/profile/steam/76561198262193029/overview"
-          target="_blank"
-          aria-label="Rocket League"
-        >
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            viewBox="0 0 50 50"
-            width="44px"
-            height="44px"
-            fill={theme.palette.textMain.main}
-          >
-            <title>Rocket League Tracker</title>
-            <path d={rocketLeagueSvgPath} />
-          </svg>
-        </StyledAnchorLink>
-        <StyledAnchorLink
-          href="https://www.worldcubeassociation.org/persons/2022OBER04"
-          target="_blank"
-          aria-label="Cube"
-        >
-          <svg
-            version="1.0"
-            xmlns="http://www.w3.org/2000/svg"
-            width="44px"
-            height="44px"
-            viewBox="0 0 1250.000000 1280.000000"
-            preserveAspectRatio="xMidYMid meet"
-            fill={theme.palette.textMain.main}
-          >
-            <title>WCA Profile</title>
-            <metadata>
-              Created by potrace 1.15, written by Peter Selinger 2001-2017
-            </metadata>
-            <g
-              transform="translate(0.000000,1280.000000) scale(0.100000,-0.100000)"
-              stroke="none"
-            >
-              <CubeSvgPath />
-            </g>
-          </svg>
-        </StyledAnchorLink>
+        {/*<StyledAnchorLink*/}
+        {/*  href=""*/}
+        {/*  target="_blank"*/}
+        {/*  aria-label="Tennis"*/}
+        {/*>*/}
+        {/*  <svg*/}
+        {/*    fill={theme.palette.textMain.main}*/}
+        {/*    width="44px"*/}
+        {/*    height="44px"*/}
+        {/*    viewBox="0 0 1024 1024"*/}
+        {/*    xmlns="http://www.w3.org/2000/svg"*/}
+        {/*  >*/}
+        {/*    <title>Gym</title>*/}
+        {/*    <UTRSvgPath />*/}
+        {/*  </svg>*/}
+        {/*</StyledAnchorLink>*/}
       </StyledRightAnchor>
     </>
   );

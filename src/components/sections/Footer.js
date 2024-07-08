@@ -73,7 +73,7 @@ const Footer = () => {
           <StyledFooterList>
             <StyledListItemLink
               sx={{ marginRight: "-0.3rem" }}
-              href="https://www.linkedin.com/in/max-oberholtzer/"
+              href="https://www.linkedin.com/in/johnccarroll2000/"
               target="_blank"
             >
               <svg
@@ -89,7 +89,7 @@ const Footer = () => {
               </svg>
             </StyledListItemLink>
             <StyledListItemLink
-              href="https://github.com/Maximilian-Oberholtzer"
+              href="https://github.com/johnccarroll"
               target="_blank"
             >
               <svg
@@ -105,7 +105,7 @@ const Footer = () => {
               </svg>
             </StyledListItemLink>
             <StyledListItemLink
-              href="mailto:max.oberholtzer@yahoo.com"
+              href="mailto:johnccarroll2000@gmail.com"
               sx={{ transform: "scale(0.95)" }}
             >
               <svg
@@ -122,61 +122,6 @@ const Footer = () => {
                 <title>Email</title>
                 <g>
                   <path d={emailSvgPath} />
-                </g>
-              </svg>
-            </StyledListItemLink>
-            <StyledListItemLink
-              href="https://app.universaltennis.com/profiles/51049"
-              target="_blank"
-            >
-              <svg
-                fill={theme.palette.textMain.main}
-                width="32px"
-                height="32px"
-                viewBox="0 0 1024 1024"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <title>Universal Tennis Rating</title>
-                <UTRSvgPath />
-              </svg>
-            </StyledListItemLink>
-            <StyledListItemLink
-              href="https://rocketleague.tracker.network/rocket-league/profile/steam/76561198262193029/overview"
-              target="_blank"
-            >
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                viewBox="0 0 50 50"
-                width="32px"
-                height="32px"
-                fill={theme.palette.textMain.main}
-              >
-                <title>Rocket League Tracker</title>
-                <path d={rocketLeagueSvgPath} />
-              </svg>
-            </StyledListItemLink>
-            <StyledListItemLink
-              href="https://www.worldcubeassociation.org/persons/2022OBER04"
-              target="_blank"
-            >
-              <svg
-                version="1.0"
-                xmlns="http://www.w3.org/2000/svg"
-                width="32px"
-                height="32px"
-                viewBox="0 0 1250.000000 1280.000000"
-                preserveAspectRatio="xMidYMid meet"
-                fill={theme.palette.textMain.main}
-              >
-                <title>WCA Profile</title>
-                <metadata>
-                  Created by potrace 1.15, written by Peter Selinger 2001-2017
-                </metadata>
-                <g
-                  transform="translate(0.000000,1280.000000) scale(0.100000,-0.100000)"
-                  stroke="none"
-                >
-                  <CubeSvgPath />
                 </g>
               </svg>
             </StyledListItemLink>

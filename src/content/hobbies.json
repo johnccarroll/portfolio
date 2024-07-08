@@ -1,8 +1,8 @@
 [
   {
     "id": "0",
-    "name": "Tennis",
-    "description": "Peak ranking of 12 UTR in singles & 3-star college recruit",
+    "name": "Automotive",
+    "description": "",
     "smallWidth": "6rem",
     "largeWidth": "8rem",
     "smallHeight": "6rem",
@@ -14,8 +14,8 @@
   },
   {
     "id": "1",
-    "name": "Speed Cubing",
-    "description": "Fastest recorded 3x3 solve time is currently 9.94 seconds",
+    "name": "Fitness",
+    "description": "I enjoy weightlifting, running, and cycling. I recently completed the Western Massachusetts Ironman 70.3.",
     "smallWidth": "6rem",
     "largeWidth": "8rem",
     "smallHeight": "6rem",
@@ -27,8 +27,8 @@
   },
   {
     "id": "2",
-    "name": "Rocket League",
-    "description": "Top 100 on global leaderboard in Solo Duel game mode",
+    "name": "Video Games",
+    "description": "",
     "smallWidth": "10rem",
     "largeWidth": "12rem",
     "smallHeight": "6rem",

@@ -143,6 +143,13 @@ const Experience = () => {
                 <StyledCarouselSubText>
                   {item.description}
                 </StyledCarouselSubText>
+                <br/>
+                <StyledCarouselSubText>
+                  {item.description1}
+                </StyledCarouselSubText>
+                <StyledCarouselSubText>
+                  {item.description2}
+                </StyledCarouselSubText>
               </StyledCarouselCard>
             ))}
           </Slider>
