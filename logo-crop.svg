@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="130mm"
+   height="50mm"
+   viewBox="0 0 130 50"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.7443198"
+     inkscape:cx="308.14304"
+     inkscape:cy="185.74576"
+     inkscape:window-width="1728"
+     inkscape:window-height="1387"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1" />
+  <g
+     inkscape:label="Hershey Text"
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round"
+     id="g2076"
+     transform="matrix(1.435701,0,0,1.6553562,-107.1174,-60.879264)">
+    <g
+       transform="translate(73.6666,61.9764)"
+       id="g2075">
+      <path
+         d="M 498,183 129,343 554,504"
+         style="stroke-width:0.7382in"
+         transform="scale(0.0352777,-0.0352777)"
+         id="path2071" />
+      <path
+         d="m 113,101 22,-38 35,-28.4 47,-18.8 67,9.4 66,40.9 37,59.9 16,47 85,482"
+         style="stroke-width:0.7382in"
+         transform="matrix(0.0352777,0,0,-0.0352777,17.78,0)"
+         id="path2072" />
+      <path
+         d="m 551,97.6 -75,-50.4 -92,-31.4 -88,12.6 -72,44 -51,75.6 -19,79 13,119 28,111 57,91 76,69 78,35 85,6 73,-15 41,-32 12,-19"
+         style="stroke-width:0.7382in"
+         transform="matrix(0.0352777,0,0,-0.0352777,34.9955,0)"
+         id="path2073" />
+      <path
+         d="M 34.6,-142 485,709"
+         style="stroke-width:0.7382in"
+         transform="matrix(0.0352777,0,0,-0.0352777,55.774,0)"
+         id="path2074" />
+      <path
+         d="M 104,183 529,346 161,504"
+         style="stroke-width:0.7382in"
+         transform="matrix(0.0352777,0,0,-0.0352777,69.2148,0)"
+         id="path2075" />
+    </g>
+  </g>
+</svg>
