@@ -1,8 +1,8 @@
 {
-  "name": "john-portfolio",
+  "name": "portfolio",
   "version": "0.1.0",
+  "homepage": "https://johncarroll.dev",
   "private": true,
-  "homepage": "https://johnccarroll.github.io/portfolio",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
