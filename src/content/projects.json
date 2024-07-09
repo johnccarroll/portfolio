@@ -12,7 +12,7 @@
     "id": "1",
     "title": "Hashtag Analysis for Stock Market Prediction",
     "image": "../images/hashtag.png",
-    "description": "This paper discusses the novel approach we took to build a learning model capable of predicting future movements in the S&P 500 index using sentiment analysis on data provided by the Twitter API.",
+    "description": "Used sentiment analysis to build a learning model to predict future movements in the S&P 500 index.",
     "skills": ["Python", "AI", "Machine Learning", "Sentiment Analysis"],
     "websiteLink": "/hashtag.pdf",
     "githubLink": ""
