@@ -1,4 +1,4 @@
-import { React } from "react";
+import React from "react";
 import { Typography, styled, Box, useTheme } from "@mui/material";
 import {
     StyledDivider, StyledGenericContainer, StyledGenericRoot, StyledGenericSubText, StyledGenericTitle,
@@ -6,6 +6,36 @@ import {
 import "animate.css";
 import { useInView } from "react-intersection-observer";
 import * as Scroll from "react-scroll";
+
+// Importing all SVG icons
+import adobexd from '../../assets/icons/adobexd.svg';
+import angular from '../../assets/icons/angular.svg';
+import aws from '../../assets/icons/aws.svg';
+import azure from '../../assets/icons/azure.svg';
+import bootstrap from '../../assets/icons/bootstrap.svg';
+import css from '../../assets/icons/css.svg';
+import dart from '../../assets/icons/dart.svg';
+import docker from '../../assets/icons/docker.svg';
+import express from '../../assets/icons/express.svg';
+import figma from '../../assets/icons/figma.svg';
+import firebase from '../../assets/icons/firebase.svg';
+import flask from '../../assets/icons/flask.svg';
+import flutter from '../../assets/icons/flutter.svg';
+import git from '../../assets/icons/git.svg';
+import html from '../../assets/icons/html.svg';
+import javascript from '../../assets/icons/javascript.svg';
+import jira from '../../assets/icons/jira.svg';
+import kubernetes from '../../assets/icons/kubernetes.svg';
+import mongo from '../../assets/icons/mongo.svg';
+import node from '../../assets/icons/node.svg';
+import notion from '../../assets/icons/notion.svg';
+import postgres from '../../assets/icons/postgres.svg';
+import react from '../../assets/icons/react.svg';
+import restapis from '../../assets/icons/restapis.svg';
+import springboot from '../../assets/icons/springboot.svg';
+import sql from '../../assets/icons/sql.svg';
+import trello from '../../assets/icons/trello.svg';
+import typescript from '../../assets/icons/typescript.svg';
 
 // Component styles
 const StyledCategoryContainer = styled("div")(({ theme }) => ({
@@ -66,6 +96,33 @@ const techStack = {
     "Version Control & Management": ["Git", "Jira", "Trello", "Notion", "Figma"],
 };
 
+// Icon mapping
+const iconMap = {
+    "Flutter": flutter,
+    "Dart": dart,
+    "Angular": angular,
+    "React": react,
+    "Javascript": javascript,
+    "Typescript": typescript,
+    "HTML": html,
+    "CSS": css,
+    "Bootstrap": bootstrap,
+    "Spring Boot": springboot,
+    "REST APIs": restapis,
+    "Node": node,
+    "Azure": azure,
+    "AWS": aws,
+    "Docker": docker,
+    "Kubernetes": kubernetes,
+    "Firebase": firebase,
+    "Postgres": postgres,
+    "Git": git,
+    "Jira": jira,
+    "Trello": trello,
+    "Notion": notion,
+    "Figma": figma,
+};
+
 // End component styles
 
 const Tech = () => {
@@ -95,11 +152,11 @@ const Tech = () => {
                                 <StyledCategoryBelt>
                                     {technologies.map((tech, techIndex) => (
                                         <StyledCategoryItem key={techIndex}>
-                                            <img src={`${process.env.PUBLIC_URL}/icons/${tech.replace(/\s+/g, '')}.svg`}
+                                            <img src={iconMap[tech]}
                                                  alt={`${tech} icon`}
                                                  width="30" height="30"/>
                                             <StyledCategoryText component="h1">
-                                            {tech}
+                                                {tech}
                                             </StyledCategoryText>
                                         </StyledCategoryItem>
                                     ))}
