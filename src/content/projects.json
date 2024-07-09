@@ -7,5 +7,14 @@
     "skills": ["Javascript", "Python", "Web Development", "Machine Learning"],
     "websiteLink": "https://drive.google.com/file/d/14JbiFNsNGaoMAu9FiahG781V7uLhTmqZ/view?pli=1",
     "githubLink": "https://johnccarroll.github.io/mqp-map/"
+  },
+  {
+    "id": "1",
+    "title": "Hashtag Analysis for Stock Market Prediction",
+    "image": "../images/hashtag.png",
+    "description": "This paper discusses the novel approach we took to build a learning model capable of predicting future movements in the S&P 500 index using sentiment analysis on data provided by the Twitter API.",
+    "skills": ["Python", "AI", "Machine Learning", "Sentiment Analysis"],
+    "websiteLink": "/hashtag.pdf",
+    "githubLink": ""
   }
 ]

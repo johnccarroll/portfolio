@@ -95,10 +95,11 @@ const Tech = () => {
                                 <StyledCategoryBelt>
                                     {technologies.map((tech, techIndex) => (
                                         <StyledCategoryItem key={techIndex}>
-                                            <img src={`/icons/${tech.replace(/\s+/g, '')}.svg`} alt={`${tech} icon`}
-                                                width="30" height="30" />
+                                            <img src={`${process.env.PUBLIC_URL}/icons/${tech.replace(/\s+/g, '')}.svg`}
+                                                 alt={`${tech} icon`}
+                                                 width="30" height="30"/>
                                             <StyledCategoryText component="h1">
-                                                {tech}
+                                            {tech}
                                             </StyledCategoryText>
                                         </StyledCategoryItem>
                                     ))}
