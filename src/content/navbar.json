@@ -5,14 +5,18 @@
   },
   {
     "id": "1",
-    "name": "Experience"
+    "name": "Tech"
   },
   {
     "id": "2",
-    "name": "Projects"
+    "name": "Experience"
   },
   {
     "id": "3",
+    "name": "Projects"
+  },
+  {
+    "id": "4",
     "name": "Hobbies"
   }
 ]

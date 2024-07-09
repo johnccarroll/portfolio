@@ -118,7 +118,7 @@ const StyledDrawerCloseIcon = styled(CloseIcon)(({ theme }) => ({
 }));
 const StyledDrawer = styled(Drawer)(({ theme }) => ({
   "& div.MuiPaper-root": {
-    background: "rgba(0, 0, 0, 0.5)",
+    background: "rgba(0, 0, 0, 0.1)",
     backdropFilter: "blur(10px)",
     height: "100vh !important",
     boxShadow: "none !important",
@@ -255,7 +255,7 @@ const Navbar = () => {
           <List>
             <Button
               sx={{
-                color: MuiTheme.palette.textMain.main,
+                color: MuiTheme.palette.textMain.nav,
                 animation: "fadeIn",
                 animationDuration: "2s",
               }}

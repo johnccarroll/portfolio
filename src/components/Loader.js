@@ -52,42 +52,42 @@ const Loader = () => {
         >
           <motion.path
             d="M 498,183 129,343 554,504"
-            transform="translate(50.000000,136.000000) scale(0.200000,-0.200000)"  // Adjusted translate for centering
+            transform="translate(70.000000,136.000000) scale(0.200000,-0.200000)"  // Adjusted translate for centering
             fill="none"
             stroke={theme.palette.textMain.main}
-            strokeWidth="50"
+            strokeWidth="60"
             variants={pathVariants(0)}
           />
           <motion.path
             d="m 113,101 22,-38 35,-28.4 47,-18.8 67,9.4 66,40.9 37,59.9 16,47 85,482"
-            transform="translate(180.000000,136.000000) scale(0.200000,-0.200000)"  // Adjusted translate for centering
+            transform="translate(200.000000,136.000000) scale(0.200000,-0.200000)"  // Adjusted translate for centering
             fill="none"
             stroke={theme.palette.textMain.main}
-            strokeWidth="50"
+            strokeWidth="60"
             variants={pathVariants(0.25)}
           />
           <motion.path
             d="m 551,97.6 -75,-50.4 -92,-31.4 -88,12.6 -72,44 -51,75.6 -19,79 13,119 28,111 57,91 76,69 78,35 85,6 73,-15 41,-32 12,-19"
-            transform="translate(310.000000,136.000000) scale(0.200000,-0.200000)"  // Adjusted translate for centering
+            transform="translate(330.000000,136.000000) scale(0.200000,-0.200000)"  // Adjusted translate for centering
             fill="none"
             stroke={theme.palette.textMain.main}
-            strokeWidth="50"
+            strokeWidth="60"
             variants={pathVariants(0.25)}
           />
           <motion.path
             d="M 34.6,-142 485,709"
-            transform="translate(440.000000,136.000000) scale(0.200000,-0.200000)"  // Adjusted translate for centering
+            transform="translate(460.000000,136.000000) scale(0.200000,-0.200000)"  // Adjusted translate for centering
             fill="none"
             stroke={theme.palette.textMain.main}
-            strokeWidth="50"
+            strokeWidth="60"
             variants={pathVariants(0.5)}
           />
           <motion.path
             d="M 104,183 529,346 161,504"
-            transform="translate(570.000000,136.000000) scale(0.200000,-0.200000)"  // Adjusted translate for centering
+            transform="translate(590.000000,136.000000) scale(0.200000,-0.200000)"  // Adjusted translate for centering
             fill="none"
             stroke={theme.palette.textMain.main}
-            strokeWidth="50"
+            strokeWidth="60"
             variants={pathVariants(0.5)}
           />
         </motion.svg>
