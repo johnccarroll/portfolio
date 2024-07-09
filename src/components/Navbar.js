@@ -77,7 +77,7 @@ const StyledAppBarDrawerLink = styled(Link)(({ theme }) => ({
   "& p": {
     animation: "fadeIn",
     animationDuration: "2s",
-    color: theme.palette.textMain.main + " !important",
+    color: theme.palette.textMain.nav + " !important",
     cursor: "pointer",
     fontSize: "1.75rem",
     padding: "0",
@@ -118,7 +118,7 @@ const StyledDrawerCloseIcon = styled(CloseIcon)(({ theme }) => ({
 }));
 const StyledDrawer = styled(Drawer)(({ theme }) => ({
   "& div.MuiPaper-root": {
-    background: "transparent",
+    background: "rgba(0, 0, 0, 0.5)",
     backdropFilter: "blur(10px)",
     height: "100vh !important",
     boxShadow: "none !important",

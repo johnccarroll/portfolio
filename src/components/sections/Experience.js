@@ -34,12 +34,12 @@ const StyledCarouselContainer = styled(Container)(({ theme }) => ({
 const StyledCarouselCard = styled("div")(({ theme }) => ({
   borderRadius: "2rem !important",
   padding: "2rem 2rem",
-  backgroundImage: `radial-gradient(ellipse at center, ${theme.palette.backgroundSecondary.main}10, ${theme.palette.backgroundSecondary.main}40)`,
+  backgroundImage: `radial-gradient(ellipse at center, ${theme.palette.backgroundSecondary.main}08, ${theme.palette.backgroundSecondary.main}20)`,
   [theme.breakpoints.down("sm")]: {
     padding: "1.25rem 1.25rem",
   },
   maxWidth: "75%",
-  border: `0.25rem solid ${theme.palette.backgroundSecondary.main}70`,
+  border: `0.25rem solid ${theme.palette.backgroundSecondary.main}50`,
 }));
 const StyledCarouselTitle = styled(Typography)(({ theme }) => ({
   fontSize: "clamp(28px, 4vw, 44px) !important",

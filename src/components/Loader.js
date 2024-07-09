@@ -46,7 +46,7 @@ const Loader = () => {
         <motion.svg
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 800 200"  // Updated viewBox to fit all characters
-          width="40rem"  // Adjusted width
+          width="30rem"  // Adjusted width
           initial="hidden"
           animate="visible"
         >

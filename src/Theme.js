@@ -1,17 +1,26 @@
 import { createTheme } from "@mui/material";
 
+// Define common colors
+const commonColors = {
+  primary: "#5cb68e",
+  secondary: "#6cf8b2",
+  hover: "#539E8B",
+  white: "#FEFFFF",
+  black: "#000000",
+  gray: "#323232",
+};
+
 export const lightTheme = createTheme({
   components: {
     MuiCssBaseline: {
       styleOverrides: {
-        // Style for the scrollbar
         "*::-webkit-scrollbar": {
           width: "0.4em",
           height: "0.4em",
-          backgroundColor: "#FFFFFF",
+          backgroundColor: commonColors.white,
         },
         "*::-webkit-scrollbar-thumb": {
-          backgroundColor: "#5BC0BE",
+          backgroundColor: commonColors.secondary,
         },
         "*": {
           boxSizing: "unset",
@@ -26,7 +35,7 @@ export const lightTheme = createTheme({
     MuiButton: {
       styleOverrides: {
         root: {
-          color: "#FEFFFF",
+          color: commonColors.white,
           "&:hover": {
             backgroundColor: "transparent",
           },
@@ -48,19 +57,20 @@ export const lightTheme = createTheme({
   },
   palette: {
     background: {
-      main: "#FFFFFF",
+      main: commonColors.white,
     },
     backgroundSecondary: {
-      main: "#5BC0BE",
+      main: commonColors.primary,
     },
     buttonHover: {
-      main: "#3E9F9D",
+      main: commonColors.hover,
     },
     textMain: {
-      main: "#000000",
+      main: commonColors.black,
+      nav: commonColors.white,
     },
     textSecondary: {
-      main: "#53739A",
+      main: commonColors.gray,
     },
   },
 });
@@ -69,14 +79,13 @@ export const darkTheme = createTheme({
   components: {
     MuiCssBaseline: {
       styleOverrides: {
-        // Style for the scrollbar
         "*::-webkit-scrollbar": {
           width: "0.4em",
           height: "0.4em",
-          backgroundColor: "#0B132B",
+          backgroundColor: "#171717",
         },
         "*::-webkit-scrollbar-thumb": {
-          backgroundColor: "#3A506B",
+          backgroundColor: commonColors.secondary,
         },
         "*": {
           boxSizing: "unset",
@@ -91,7 +100,7 @@ export const darkTheme = createTheme({
     MuiButton: {
       styleOverrides: {
         root: {
-          color: "#FEFFFF",
+          color: commonColors.white,
           "&:hover": {
             backgroundColor: "transparent",
           },
@@ -116,16 +125,17 @@ export const darkTheme = createTheme({
       main: "#171717",
     },
     backgroundSecondary: {
-      main: "#3A506B",
+      main: commonColors.primary,
     },
     buttonHover: {
-      main: "#53739A",
+      main: commonColors.hover,
     },
     textMain: {
-      main: "#FEFFFF",
+      main: commonColors.white,
+      nav: commonColors.white,
     },
     textSecondary: {
-      main: "#6FFFE9",
+      main: commonColors.secondary,
     },
   },
 });

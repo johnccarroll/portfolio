@@ -10,7 +10,7 @@ function App() {
   const [theme, setTheme] = useState(() => {
     return window.localStorage.getItem("theme") || "dark";
   });
-  const muiTheme = theme === "dark" ? lightTheme : darkTheme;
+  const muiTheme = theme === "dark" ? darkTheme : lightTheme;
   return (
     <ThemeContext.Provider value={{ theme, setTheme }}>
       <ThemeProvider theme={muiTheme}>
