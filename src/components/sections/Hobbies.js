@@ -17,8 +17,6 @@ import hobbies from "../../content/hobbies.json";
 import { useInView, InView } from "react-intersection-observer";
 import * as Scroll from "react-scroll";
 import "animate.css";
-import bird from "../../assets/bird.png"
-
 
 //Component styles
 const StyledHobbiesGrid = styled(Grid)({
@@ -84,7 +82,7 @@ const Hobbies = () => {
                 <StyledDivider />
               </StyledGenericTitle>
               <StyledGenericSubText component="h1">
-                These are the things I that enjoy to do for fun!
+                Here are some things I that do for fun!
               </StyledGenericSubText>
             </div>
 
@@ -104,7 +102,7 @@ const Hobbies = () => {
                               }
                           >
                             <img
-                                src={bird}
+                                src={hobby.imagePath}
                                 alt={hobby.name}
                                 width={sm ? hobby.smallWidth : hobby.largeWidth}
                                 height={sm ? hobby.smallHeight : hobby.largeHeight}

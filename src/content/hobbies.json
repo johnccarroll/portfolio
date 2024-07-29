@@ -4,39 +4,42 @@
     "name": "Fitness",
     "description": "Some of my favorite activities are skiing, running, weightlifting, and cycling.",
     "description2": "I recently completed the Western Massachusetts Ironman 70.3 and plan to run my first marathon later this year.",
-    "smallWidth": "60rem",
-    "largeWidth": "80rem",
-    "smallHeight": "60rem",
-    "largeHeight": "80rem",
+    "smallWidth": "200rem",
+    "largeWidth": "300rem",
+    "smallHeight": "200rem",
+    "largeHeight": "300rem",
     "strokeWidth": "7",
     "viewBox": "0 0 512 512",
     "transform": null,
-    "animationDuration": 18
+    "animationDuration": 18,
+    "imagePath": "../images/iron.png"
   },
   {
     "id": "1",
     "name": "Automotive",
     "description": "I have a passion for cars and like to stay up to date with latest trends in automotive engineering and technology.",
-    "smallWidth": "60rem",
-    "largeWidth": "80rem",
-    "smallHeight": "60rem",
-    "largeHeight": "80rem",
+    "smallWidth": "200rem",
+    "largeWidth": "300rem",
+    "smallHeight": "200rem",
+    "largeHeight": "300rem",
     "strokeWidth": "7",
     "viewBox": "0 0 512 512",
     "transform": null,
-    "animationDuration": 18
+    "animationDuration": 18,
+    "imagePath": "../images/car.png"
   },
   {
     "id": "2",
     "name": "Video Games",
-    "description": "I also enjoy playing video games to wind down and keep in touch with many of my friends.",
-    "smallWidth": "10rem",
-    "largeWidth": "12rem",
-    "smallHeight": "6rem",
-    "largeHeight": "8rem",
+    "description": "I also enjoy playing video games to wind down and keep in touch with my friends.",
+    "smallWidth": "250rem",
+    "largeWidth": "350rem",
+    "smallHeight": "200rem",
+    "largeHeight": "300rem",
     "strokeWidth": "18",
     "viewBox": "0 0 300.000000 179.000000",
     "transform": "translate(0.000000,179.000000) scale(0.100000,-0.100000)",
-    "animationDuration": 14
+    "animationDuration": 14,
+    "imagePath": "../images/controller.png"
   }
 ]
