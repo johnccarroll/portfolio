@@ -4,8 +4,8 @@
     "company": "CVS Health",
     "jobTitle": "Senior Analyst - Application Development",
     "years": "May 2022 - Current",
-    "description": "Develop and maintain critical software for CVS Caremark as a full-stack developer.",
-    "description1": "Manage deployment pipelines and Azure/Kubernetes resources as the primary contact for DevOps and Cloud Engineering teams. Played a key role in the initial deployment of a clinical application to Microsoft Azure, a first for our team, enhancing scalability and reliability."
+    "description": "Architected reliable/scalable clinical application on Azure supporting Pharmacy Advisors.",
+    "description1": "Led UI development, managed CI/CD pipelines, and orchestrated Azure/Kubernetes resources."
   },
   {
     "id": "1",
@@ -24,7 +24,7 @@
   {
     "id": "3",
     "company": "Worcester Polytechnic Institute",
-    "jobTitle": "B.S/M.S. in Computer Science | Minor in Chinese Studies",
+    "jobTitle": "B.S./M.S. in Computer Science | Minor in Chinese Studies",
     "years": "2018 - 2022",
     "description": "Relevant Coursework: Software Engineering, Machine Learning, Computer Networks, Operating Systems, Database Management Systems, Web Development, and Chinese (Mandarin).",
     "description1": "NEWMAC Academic All Conference (2019-2022), Dean’s List (2019-2022), Varsity Swim and Dive"
