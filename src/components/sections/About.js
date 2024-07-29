@@ -36,7 +36,7 @@ const About = () => {
                     <StyledGenericSubText component="h1" align="center">
                         Outside my professional life, I am an online tutor, specializing in Computer Science,
                         through Wyzant. With a 5-star rating and over 100 students, I am passionate about
-                        sharing my knowledge and helping others on their learning journeys.
+                        sharing my knowledge and helping others.
                     </StyledGenericSubText>
                     <br />
                 </StyledGenericContainer>

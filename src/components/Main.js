@@ -45,7 +45,7 @@ const Main = () => {
                             <Tech/>
                             <Experience/>
                             <Projects/>
-                            {/*<Hobbies />*/}
+                            <Hobbies />
                             <Footer/>
                         </StyledMainContainer>
                     </StyledMainPage>

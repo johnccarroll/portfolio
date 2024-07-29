@@ -141,7 +141,7 @@ const Hero = ({img}) => {
                         </StyledHeroSubText>
 
                         <StyledHeroSubText component="h1" variant="h5">
-                            Online Tutor
+                            Computer Science Tutor
                         </StyledHeroSubText>
                     </StyledHeroText>
                 </StyledHeroGrid>

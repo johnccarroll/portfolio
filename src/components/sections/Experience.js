@@ -116,9 +116,7 @@ const Experience = () => {
             <StyledDivider />
           </StyledGenericTitle>
           <StyledGenericSubText component="h1">
-            Since graduating from Worcester Polytechnic Institute (WPI) in 2022, I have worked as a
-            full-stack software engineer for CVS Health.
-          </StyledGenericSubText>
+            Since graduating with my Bachelor's and Master's in Computer Science from Worcester Polytechnic Institute, I've worked as a full-stack software engineer for CVS Health.          </StyledGenericSubText>
         </StyledGenericContainer>
 
         <StyledCarouselContainer
