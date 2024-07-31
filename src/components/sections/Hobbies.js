@@ -82,7 +82,7 @@ const Hobbies = () => {
                 <StyledDivider />
               </StyledGenericTitle>
               <StyledGenericSubText component="h1">
-                Here are some things I that do for fun!
+                Here are some things that I do for fun!
               </StyledGenericSubText>
             </div>
 
