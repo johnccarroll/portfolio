@@ -1,5 +1,5 @@
 import { React } from "react";
-import { Typography, useTheme } from "@mui/material";
+import { useTheme } from "@mui/material";
 import {
     StyledDivider, StyledGenericContainer, StyledGenericRoot, StyledGenericSubText, StyledGenericTitle,
 } from "./Styles";
@@ -34,8 +34,7 @@ const About = () => {
                     </StyledGenericSubText>
                     <br />
                     <StyledGenericSubText component="h1" align="center">
-                        I enjoy exploring new technologies, gadgets, and the latest in automotive technology. Fitness remains an integral part of my lifestyle, you will often find me at the gym or out for a run.
-                    </StyledGenericSubText>
+Beyond my professional life, I stay active through skiing, running, cycling, and weightlifting. I also have a passion for exploring new technologies and gadgets, and I’m an avid car enthusiast.                    </StyledGenericSubText>
                     <br />
                     <StyledGenericSubText component="h1" align="center">
                         I am also online tutor, specializing in Computer Science. With a 5-star rating and over 100 students, I am passionate about
