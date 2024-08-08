@@ -38,7 +38,7 @@ const StyledCarouselCard = styled("div")(({ theme }) => ({
   [theme.breakpoints.down("sm")]: {
     padding: "1.25rem 1.25rem",
   },
-  maxWidth: "75%",
+  maxWidth: "84%",
   border: `0.25rem solid ${theme.palette.backgroundSecondary.main}50`,
 }));
 const StyledCarouselTitle = styled(Typography)(({ theme }) => ({

@@ -146,13 +146,6 @@ const Hero = ({img}) => {
                     </StyledHeroText>
                 </StyledHeroGrid>
             </StyledHeroContainer>
-            {isMobile ? (<></>) : (<div
-                    style={{
-                        marginTop: "2rem", animation: "fadeInUp", animationDuration: "1s",
-                    }}
-                >
-                    <ScrollerIcon/>
-                </div>)}
         </StyledHeroRoot>);
 };
 

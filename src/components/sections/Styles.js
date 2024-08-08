@@ -13,7 +13,7 @@ export const StyledDivider = styled("div")(({ theme }) => ({
 }));
 
 export const StyledGenericRoot = styled("section")(({ theme }) => ({
-  minHeight: "80vh",
+  minHeight: "100vh",
   justifyContent: "center",
   display: "flex",
   flexWrap: "wrap",
