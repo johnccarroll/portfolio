@@ -2,7 +2,7 @@
   {
     "id": "0",
     "company": "CVS Health",
-    "jobTitle": "Senior Analyst - Application Development",
+    "jobTitle": "Software Development Engineer",
     "years": "May 2022 - Current",
     "description": "Architected reliable/scalable clinical application on Azure supporting Pharmacy Advisors.",
     "description1": "Led UI development, managed CI/CD pipelines, and orchestrated Azure/Kubernetes resources."
@@ -10,7 +10,7 @@
   {
     "id": "1",
     "company": "CVS Health",
-    "jobTitle": "Software Engineer Intern - Pharmacy Support Services",
+    "jobTitle": "Software Engineer Intern",
     "years": "May 2021 - Aug 2021",
     "description": "Contributed as a full-stack developer to deliver a minimum viable product for a clinical development question set application.",
     "description1": "Curated user stories in two week development sprints via Agile/Scrum methodology"

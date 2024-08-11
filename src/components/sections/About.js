@@ -29,8 +29,7 @@ const About = () => {
                     </StyledGenericTitle>
                     <StyledGenericSubText component="h1" align="center">
                         Hey there! My name is John. I am a dedicated and enthusiastic full-stack developer with a
-                        passion for technology and problem-solving. Currently, I'm working as a Senior Analyst in
-                        Application Development at CVS Health.
+                        passion for technology and problem-solving. Currently, I'm working as a Software Development Engineer at CVS Health.
                     </StyledGenericSubText>
                     <br />
                     <StyledGenericSubText component="h1" align="center">

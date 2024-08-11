@@ -222,7 +222,7 @@ const Navbar = () => {
             <StyledResumeLink
               href={
                 process.env.PUBLIC_URL +
-                "/John-Carroll-Resume.pdf"
+                "/Resume.pdf"
               }
               target="_blank"
             >
@@ -304,7 +304,7 @@ const Navbar = () => {
       >
         <StyledResumeLink
           href={
-            process.env.PUBLIC_URL + "/John-Carroll-Resume.pdf"
+            process.env.PUBLIC_URL + "/Resume.pdf"
           }
           target="_blank"
         >
