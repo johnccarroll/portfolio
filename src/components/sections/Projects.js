@@ -159,9 +159,7 @@ const Projects = () => {
                         <StyledDivider/>
                     </StyledGenericTitle>
                     <StyledGenericSubText component="h1">
-                        I've had the privilege of working on a number of exciting research projects, from an
-                        analytic tool to mitigate food safety risk to leveraging sentiment analysis of Twitter hashtags
-                        for stock market predictions.
+                        I've had the privilege of working on several research projects as part of my Computer Science graduate studies. Here is some of my work:
                     </StyledGenericSubText>
                 </StyledGenericContainer>
                 <StyledProjectsContainer>

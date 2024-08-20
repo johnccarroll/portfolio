@@ -16,5 +16,14 @@
     "skills": ["Python", "AI", "Machine Learning", "Sentiment Analysis"],
     "websiteLink": "/hashtag.pdf",
     "githubLink": ""
+  },
+  {
+    "id": "2",
+    "title": "Is The Internet Dependent on Dependencies?",
+    "image": "../images/internet.png",
+    "description": "Explores how the reliance on remote JavaScript libraries could expose websites to functionality failures and potential risks in various failure scenarios, impacting performance and security.",
+    "skills": ["JavaScript", "Web Development", "Dependency Management"],
+    "websiteLink": "/internet.pdf",
+    "githubLink": ""
   }
 ]
