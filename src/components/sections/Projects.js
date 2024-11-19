@@ -93,7 +93,7 @@ const StyledProjectsTitle = styled(Typography)(({theme}) => ({
     fontSize: "1.5rem !important", // Default size
     fontWeight: "600",
     [theme.breakpoints.down("sm")]: {
-        fontSize: "1.3rem !important", // Smaller size for small screens
+        fontSize: "1.2rem !important", // Smaller size for small screens
     },
 }));
 const StyledProjectsSubText = styled(Typography)(({theme}) => ({
