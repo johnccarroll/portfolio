@@ -3,7 +3,7 @@
     "id": "0",
     "name": "Fitness",
     "description": "Some of my favorite activities are skiing, running, weightlifting, and cycling.",
-    "description2": "This year I completed my first marathon and Ironman 70.3, and I plan to do more cycling races next year.",
+    "description2": "In 2024 I completed my first marathon and Ironman 70.3. This year I plan to do a century ride with my dad and more running & triathlon races.",
     "smallWidth": "200rem",
     "largeWidth": "300rem",
     "smallHeight": "200rem",
@@ -12,7 +12,7 @@
     "viewBox": "0 0 512 512",
     "transform": null,
     "animationDuration": 18,
-    "imagePath": "../images/iron.png"
+    "imagePath": "../images/marathon.jpeg"
   },
   {
     "id": "1",

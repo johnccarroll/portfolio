@@ -2,13 +2,21 @@
   {
     "id": "0",
     "company": "CVS Health",
-    "jobTitle": "Software Development Engineer",
-    "years": "May 2022 - Current",
-    "description": "Architected reliable/scalable clinical application on Azure supporting Pharmacy Advisors.",
+    "jobTitle": "Sr Software Development Engineer",
+    "years": "Nov 2024 - Current",
+    "description": "Transitioned into a project lead role, contributing as a lead developer and point of contact between engineers and business stakeholders to drive post-release development of a live clinical pharmacy application.",
     "description1": "Led UI development, managed CI/CD pipelines, and orchestrated Azure/Kubernetes resources."
   },
   {
     "id": "1",
+    "company": "CVS Health",
+    "jobTitle": "Software Development Engineer",
+    "years": "May 2022 - Current",
+    "description": "Architected and developed a scalable clinical application on Azure using Kubernetes.",
+    "description1": "Served as a full-stack developer and architect, overseeing code reviews, orchestrating CI/CD pipelines, implementing infrastructure as code, and managing cloud resources."
+  },
+  {
+    "id": "2",
     "company": "CVS Health",
     "jobTitle": "Software Engineer Intern",
     "years": "May 2021 - Aug 2021",
@@ -16,7 +24,7 @@
     "description1": "Curated user stories in two week development sprints via Agile/Scrum methodology"
   },
   {
-    "id": "2",
+    "id": "3",
     "company": "The Federal Reserve Board of Governors",
     "jobTitle": "Technology Analyst Intern",
     "years": "Jun 2020 - Aug 2020",
@@ -24,7 +32,7 @@
     "description1": "Utilized Python and R to collect and analyze server data, presenting critical analytics and network performance insights on an interactive web dashboard for Board members."
   },
   {
-    "id": "3",
+    "id": "4",
     "company": "Worcester Polytechnic Institute",
     "jobTitle": "B.S./M.S. in Computer Science | Minor in Chinese Studies",
     "years": "2018 - 2022",

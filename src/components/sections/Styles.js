@@ -2,7 +2,7 @@ import { styled, Container, Typography } from "@mui/material";
 
 const isFirefox = /Firefox/i.test(navigator.userAgent);
 
-//Styles used accross components
+//Styles used across components
 
 export const StyledDivider = styled("div")(({ theme }) => ({
   height: "0.4rem",
@@ -13,7 +13,7 @@ export const StyledDivider = styled("div")(({ theme }) => ({
 }));
 
 export const StyledGenericRoot = styled("section")(({ theme }) => ({
-  minHeight: "110vh",
+  minHeight: "80vh",
   justifyContent: "center",
   display: "flex",
   flexWrap: "wrap",

@@ -133,16 +133,16 @@ const Hero = ({img}) => {
                         </StyledHeroTitle>
                         <StyledSeparator/>
                         <StyledHeroSubText component="h1" variant="h5">
-                            Full Stack Developer
+                            Software Engineer
                         </StyledHeroSubText>
 
                         <StyledHeroSubText component="h1" variant="h5">
                             Tech Enthusiast
                         </StyledHeroSubText>
 
-                        <StyledHeroSubText component="h1" variant="h5">
-                            Computer Science Tutor
-                        </StyledHeroSubText>
+                        {/*<StyledHeroSubText component="h1" variant="h5">*/}
+                        {/*    Computer Science Tutor*/}
+                        {/*</StyledHeroSubText>*/}
                     </StyledHeroText>
                 </StyledHeroGrid>
             </StyledHeroContainer>
