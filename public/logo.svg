@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1" />
+  <g
+     style="fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round"
+     id="g2076"
+     transform="matrix(1.5554314,0,0,1.6548117,-86.467437,14.037549)">
+    <g
+       transform="translate(73.6666,61.9764)"
+       id="g2075">
+      <path
+         d="M 498,183 129,343 554,504"
+         style="stroke-width:0.7382in"
+         transform="scale(0.0352777,-0.0352777)"
+         id="path2071" />
+      <path
+         d="m 113,101 22,-38 35,-28.4 47,-18.8 67,9.4 66,40.9 37,59.9 16,47 85,482"
+         style="stroke-width:0.7382in"
+         transform="matrix(0.0352777,0,0,-0.0352777,17.78,0)"
+         id="path2072" />
+      <path
+         d="m 551,97.6 -75,-50.4 -92,-31.4 -88,12.6 -72,44 -51,75.6 -19,79 13,119 28,111 57,91 76,69 78,35 85,6 73,-15 41,-32 12,-19"
+         style="stroke-width:0.7382in"
+         transform="matrix(0.0352777,0,0,-0.0352777,34.9955,0)"
+         id="path2073" />
+      <path
+         d="M 34.6,-142 485,709"
+         style="stroke-width:0.7382in"
+         transform="matrix(0.0352777,0,0,-0.0352777,55.774,0)"
+         id="path2074" />
+      <path
+         d="M 104,183 529,346 161,504"
+         style="stroke-width:0.7382in"
+         transform="matrix(0.0352777,0,0,-0.0352777,69.2148,0)"
+         id="path2075" />
+    </g>
+  </g>
+</svg>
